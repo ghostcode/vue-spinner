@@ -1,6 +1,6 @@
-# vue-spinner
+# vue-simple-spin
 
-spinner for Vue 2/1
+spin for Vue 2/1 (At the beginning,I want to name it vue-spinner but it's already used and also vue-simple-spinner,so I call it vue-simple-sin)
 
 # Usage
 
