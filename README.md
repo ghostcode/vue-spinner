@@ -2,6 +2,11 @@
 
 spin for Vue 2/1 (At the beginning,I want to name it vue-spinner but it's already used and also vue-simple-spinner,so I call it vue-simple-sin)
 
+# Preview
+
+![WX20191111-113527](https://user-images.githubusercontent.com/745181/68559274-5f04f080-0477-11ea-855f-d554436077a8.png)
+
+
 # Usage
 
 Install:
